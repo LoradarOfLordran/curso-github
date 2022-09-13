@@ -1,3 +1,3 @@
-#Curso de Git & GitHub
+# Curso de Git & GitHub
 
-Esto es un curso de Git y GitHub (2022)
+Esto es un curso de Git y GitHub (2022).
